@@ -102,7 +102,7 @@ You may:
 
 To exercise these rights, contact us at:
 
-📧 your-email@example.com
+📧 contact@albu-me.com
 
 ---
 
@@ -124,4 +124,4 @@ Changes will be posted on this page with an updated date.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 your-email@example.com
+📧 contact@albu-me.com
